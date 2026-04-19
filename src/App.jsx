@@ -27,7 +27,7 @@ export default function App() {
 
   const cards = [
     {
-      title: "Anw sorry ya mendadak",
+      title: "SELAMAT PAGII ADIRA! 🌸",
       content:
         "Kita baru kenal beberapa hari hehe tapi i want to tell u somthing",
       gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp1ZTEzNXM1MmZncG11ZWJjZ21mM2R6aTJhNXcwcGFkbjRjaW80ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gscZ8rvNwqMb8QRTdM/giphy.gif",
@@ -49,7 +49,7 @@ export default function App() {
     },
     {
       title: "Kabari aku ya! ",
-      content: "Mwehehehhe",
+      content: "Sorry lagunya beda, soalnya kurang cocok disini menurutku",
       gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh5ODN0MzBsbHEzMXd2bzJvOHFhbzE3ejM5NHc0bDV6aDZ5ems4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/G3Wlf3go9Mi5TKxcUR/giphy.gif",
       color: "bg-green-100",
       isLast: true,
