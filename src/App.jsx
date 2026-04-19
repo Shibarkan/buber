@@ -30,7 +30,7 @@ export default function App() {
       title: "Anw sorry ya mendadak",
       content:
         "Kita baru kenal beberapa hari hehe tapi i want to tell u somthing",
-      gif: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2NzEybHJ5cjJ3ZmZ2Njg3eHFnZjAzMTZ5Y2JiaXpndzVtN3I2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ng6NcNAvohN6M/giphy.gif",
+      gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp1ZTEzNXM1MmZncG11ZWJjZ21mM2R6aTJhNXcwcGFkbjRjaW80ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gscZ8rvNwqMb8QRTdM/giphy.gif",
       color: "bg-rose-100",
     },
     {
@@ -44,7 +44,7 @@ export default function App() {
       title: "Gaada paksaan",
       content:
         "Tapi aku pengen banget kita bisa kenal lebih jauh, ngobrol-ngobrol santai, dan siapa tau bisa jadi temen curhat yang asik buat kamu hehe",
-      gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVqbHE4ZDc5aWh5YTN5dXRzZzZybnB2OWg4czE2dXllZzdkNGlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/EwKe1XdABwk2yvTyQt/giphy.gif",
+      gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxvNG9leWJ5cmJ5OWt3MnE1eXNvZGs0MW81cXBpbjc4czd1cW1qbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/75XJCxvRps9aiTkyLt/giphy.gif",
       color: "bg-orange-100",
     },
     {
