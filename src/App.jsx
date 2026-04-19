@@ -27,43 +27,29 @@ export default function App() {
 
   const cards = [
     {
-      title: "Siapa ya yang hari ini lagi red day? 🤔",
+      title: "Anw sorry ya mendadak",
       content:
-        "Oh no... kasian banget princess aku satu ini. Pasti perutnya lagi gak enak ya? 🥺",
+        "Kita baru kenal beberapa hari hehe tapi i want to tell u somthing",
       gif: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2NzEybHJ5cjJ3ZmZ2Njg3eHFnZjAzMTZ5Y2JiaXpndzVtN3I2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ng6NcNAvohN6M/giphy.gif",
       color: "bg-rose-100",
     },
     {
-      title: "My Princess digituin? Nono! 😤",
+      title: "Halo diraa, blehh ga kira-kira pdkt an?",
       content:
-        "Jangan sedih ya, red day itu wajar kok. Itu tandanya tubuh Berlin lagi bekerja keras. Hebat banget bisa nahan sakitnya! ❤️",
+        "Aku pengen kenal kamu lebih lagi, dan sepertinya kita juga memiliki kesamaan",
       gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZiNXBtdHVqY3Z3bGN2YmRqOHRzbnhsNm95ZnFmemlpcGppdXJwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wctV7KMYwgLGo/giphy.gif",
       color: "bg-pink-100",
     },
     {
-      title: "Kenapa sih harus sakit? 🧐",
+      title: "Gaada paksaan",
       content:
-        "Jadi, pas red day itu rahim lagi kontraksi buat ngeluarin lapisannya. Makanya rasanya kram-kram gimana gitu. Tapi sans aing ada solusi!",
+        "Tapi aku pengen banget kita bisa kenal lebih jauh, ngobrol-ngobrol santai, dan siapa tau bisa jadi temen curhat yang asik buat kamu hehe",
       gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVqbHE4ZDc5aWh5YTN5dXRzZzZybnB2OWg4czE2dXllZzdkNGlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/EwKe1XdABwk2yvTyQt/giphy.gif",
       color: "bg-orange-100",
     },
     {
-      title: "Makan Pisang! 🍌",
-      content:
-        "Pisang itu kaya akan potasium dan vitamin B6 yang bisa bantu ngurangin kram perut dan kembung. Jadi jangan lupa makan pisang!! 🍌✨",
-      gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYzZzlreXhmbmVjN2c2d2sweGd0cnc2bGF4NnVwZHpxbWo2ZWtrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/B915A957OhyXhnuKHH/giphy.gif",
-      color: "bg-yellow-100",
-    },
-    {
-      title: "I meow U",
-      content:
-        "Istirahat yang cukup ya, jangan capek-capek. Kalau butuh apa-apa bilang aku. Semangat terus princess!!!",
-      gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRxdmpjamM0Y2c1NG55Mngwd2txc2NjNzBmcWhiMHl6eDB1dHNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/eUn3BS56KYXS1wiVEU/giphy.gif",
-      color: "bg-red-100",
-    },
-    {
       title: "Kabari aku ya! ",
-      content: "Kalo ada apa apa chat orang ganteng aja(gw)",
+      content: "Mwehehehhe",
       gif: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh5ODN0MzBsbHEzMXd2bzJvOHFhbzE3ejM5NHc0bDV6aDZ5ems4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/G3Wlf3go9Mi5TKxcUR/giphy.gif",
       color: "bg-green-100",
       isLast: true,
@@ -146,7 +132,7 @@ export default function App() {
             />
 
             <h1 className="text-4xl md:text-6xl font-black text-pink-600 mb-4 drop-shadow-sm">
-              HAI BERLIN 💖
+              HALO SITI ADIRA
             </h1>
 
             <p className="text-pink-700/80 mb-8 text-base md:text-lg font-medium">
@@ -272,7 +258,7 @@ export default function App() {
       </AnimatePresence>
 
       <footer className="absolute bottom-4 text-pink-600 text-sm font-medium">
-        from yi chan 💗
+        Dari Arkan
       </footer>
     </div>
   );
