@@ -132,7 +132,7 @@ export default function App() {
             />
 
             <h1 className="text-4xl md:text-6xl font-black text-pink-600 mb-4 drop-shadow-sm">
-              HALO SITI ADIRA
+              HALO ENDAHH
             </h1>
 
             <p className="text-pink-700/80 mb-8 text-base md:text-lg font-medium">
