@@ -27,7 +27,7 @@ export default function App() {
 
   const cards = [
     {
-      title: "SELAMAT PAGI ENDAHH",
+      title: "SELAMAT MALAM ENDAHH",
       content:
         "Kita baru kenal beberapa hari hehe tapi i want to tell u somthing",
       gif: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp1ZTEzNXM1MmZncG11ZWJjZ21mM2R6aTJhNXcwcGFkbjRjaW80ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gscZ8rvNwqMb8QRTdM/giphy.gif",
